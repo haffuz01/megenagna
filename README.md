@@ -1,5 +1,5 @@
 ** Megenagna **
-Megenagna is a simple program written in C++ that mathes two people - currently made with campus students in mind - based on their hobbies, interest and personality.
+Megenagna is a simple program written in C++ that matches two people - currently made with campus students in mind - based on their hobbies, interest and personality.
 The program asks users for inputs such as their name, department, hobbies and more then matches them to the most compatible person found in the database. I have currently inserted 10 sample users for trying the algorithm.
 
 Requirements
